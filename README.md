@@ -18,7 +18,7 @@
   ![](https://forthebadge.com/images/badges/ages-18.svg)
   
   ## Things I use
-  [![My Languages](https://skillicons.dev/icons?i=c,md,)](https://yuhdev.xyz)
+  [![My Languages](https://skillicons.dev/icons?i=cs,)](https://yuhdev.xyz)
   
   [![My Programs](https://skillicons.dev/icons?i=discord,git,github,ps,unity,unreal,vscode,visualstudio,vim)](https://yuhdev.xyz)
 
