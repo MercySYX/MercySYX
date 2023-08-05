@@ -17,8 +17,8 @@
   ![](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)
   ![](https://forthebadge.com/images/badges/ages-18.svg)
   
-  ## I fuck with these languages and tools
-  [![My Languages](https://skillicons.dev/icons?i=js,cs,cpp,c,py,bash,nodejs,bootstrap,css,html,md,react,)](https://yuhdev.xyz)
+  ## Things I use
+  [![My Languages](https://skillicons.dev/icons?i=c,md,)](https://yuhdev.xyz)
   
   [![My Programs](https://skillicons.dev/icons?i=discord,git,github,ps,unity,unreal,vscode,visualstudio,vim)](https://yuhdev.xyz)
 
